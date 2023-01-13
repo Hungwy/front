@@ -3,7 +3,7 @@ function Header() {
     return(
         <nav className="">
             <div className="">
-                <h3>Registration</h3>
+                <h1>Registration</h1>
             </div>
         </nav>
     )
